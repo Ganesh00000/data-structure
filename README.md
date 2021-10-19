@@ -3,6 +3,7 @@ Here's the guide to use this repo
 
 1. <b>stack</b><br>
   -> download stack_queue.py file from data-structure repo<br>
+  https://github.com/Ganesh00000/data-structure/blob/main/stack_queue.py<br>
   -> from stack_queue import Stack in your main python file<br>
   -> make object of Stack class<br>
       obj=Stack()<br>
@@ -18,6 +19,7 @@ Here's the guide to use this repo
         obj.show()<br>
 2. <b>queue</b><br>
   -> download stack_queue.py file from data-structure repo<br>
+  https://github.com/Ganesh00000/data-structure/blob/main/stack_queue.py<br>
   -> from stack_queue import Queue in your main python file<br>
   -> make object of Queue class<br>
       obj=Queue()<br>
