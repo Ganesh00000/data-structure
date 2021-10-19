@@ -1,7 +1,7 @@
 # data-structure
 Here's the guide to use this repo
 
-1. stack
+1. stack<br>
   -> download stack_queue.py file from data-structure repo
   -> from stack_queue import Stack in your main python file
   -> make object of Stack class
