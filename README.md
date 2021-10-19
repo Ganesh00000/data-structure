@@ -2,14 +2,13 @@
 Here's the guide to use this repo
 
 1. <b>stack</b><br>
-  <p>
-  -> download stack_queue.py file from data-structure repo
-  -> from stack_queue import Stack in your main python file
-  -> make object of Stack class<br>
-      obj=Stack()
-  -> perform different operation on Stack
-      . <b>push</b>
-        use push method to push element in stack
+  -> download stack_queue.py file from data-structure repo<br>
+  -> from stack_queue import Stack in your main python file<br>
+  -> make object of Stack class<br><br>
+      obj=Stack()<br>
+  -> perform different operation on Stack<br>
+      . <b>push</b><br>
+        use push method to push element in stack<br>
         obj.push("Ganesh")
       . <b>pop</b>
         use pop method to pop element from stack
